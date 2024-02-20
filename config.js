@@ -69,7 +69,7 @@ global.ANTI_LINK = true //Anti Link (on = True , Off = False )
 
 global.ANTI_BOTS = true
 
-global.ONLY_GROUP = 'thue' // Only group mode
+global.ONLY_GROUP = 'true' // Only group mode
 
 global.GROUP_LINK = 'https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH' // ur group link
 
